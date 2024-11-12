@@ -1,6 +1,6 @@
-# EcoScan
+# EcoLens
 
-EcoScan is a sustainable marketplace app designed to connect users with eco-friendly products and promote green living. The platform allows users to browse and purchase environmentally friendly products, track their eco-impact, and engage with the community. Vendors can list their products, manage inventory, and interact with customers, all while contributing to a greener planet.
+EcoLens is a sustainable marketplace app designed to connect users with eco-friendly products and promote green living. The platform allows users to browse and purchase environmentally friendly products, track their eco-impact, and engage with the community. Vendors can list their products, manage inventory, and interact with customers, all while contributing to a greener planet.
 
 ## Table of Contents
 
